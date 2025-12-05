@@ -1,0 +1,12 @@
+{
+  "comment": "Visit YouTube: https://www.youtube.com/@helpyhelper7293",
+  "name": "WhatsApp Web Coloring",
+  "description": "Change color of WhatsApp Web elements to whatever you want.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+  "default_popup": "index.html",
+  "default_icon": "icon.png"
+  },
+  "permissions": ["activeTab", "scripting"]
+}

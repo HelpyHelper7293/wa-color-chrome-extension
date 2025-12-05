@@ -1,0 +1,25 @@
+/* Visit YouTube: https://www.youtube.com/@helpyhelper7293 */
+body {
+	height: 200px;
+	weight: 200px;
+}
+#heading_div {
+	justify-self: center;
+	align-self: center;
+	margin-bottom: 13px;
+}
+#heading {
+	font-family: "Lato", sans-serif;
+	font-weight: 600;
+	font-size: 15pt;
+	font-style: normal
+}
+#button_space {
+	font-family: "Lato", sans-serif;
+	font-weight: 400;
+}
+input {
+	align-self: center;
+	margin-bottom: 12px;
+}
+	
